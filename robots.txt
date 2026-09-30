@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /leads/
+Disallow: /vendor/
+
+Sitemap: https://kvadrat.by/sitemap.xml

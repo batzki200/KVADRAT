@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://kvadrat.by/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://kvadrat.by/services/otdelka-kvartir-pod-klyuch.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kvadrat.by/services/remont-vannoy.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kvadrat.by/services/ukladka-plitki.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kvadrat.by/services/styazhka-pola.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kvadrat.by/services/pokleyka-oboev.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+</urlset>

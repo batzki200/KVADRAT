@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#17150f"/>
+  <rect x="0" y="0" width="1200" height="10" fill="#d9822b"/>
+  <rect x="80" y="150" width="150" height="150" rx="26" fill="none" stroke="#d9822b" stroke-width="16"/>
+  <rect x="130" y="200" width="50" height="50" rx="8" fill="#f2b705"/>
+  <text x="80" y="420" font-family="Arial, sans-serif" font-size="96" font-weight="700" fill="#ffffff">КВАДРАТ</text>
+  <text x="82" y="480" font-family="Arial, sans-serif" font-size="38" fill="#d9822b">отделка квартир под ключ</text>
+</svg>
